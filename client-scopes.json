@@ -1,0 +1,16 @@
+{
+  "client_id": "https://rayistern.github.io/cimd-repro-20261105/client-scopes.json",
+  "client_name": "CIMD repro",
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none",
+  "redirect_uris": [
+    "https://rayistern.github.io/cimd-repro-20261105/callback"
+  ],
+  "scope": "openid email profile offline_access"
+}
